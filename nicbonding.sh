@@ -1,5 +1,5 @@
 ########################################
-##Created By Ajay Dalvi & Sharjeel Nabi#
+##Created By LB #
 ########################################
 #!/bin/bash
 read -p "Are you sure you want to Enter DNS Servers? <y/N> " prompt
